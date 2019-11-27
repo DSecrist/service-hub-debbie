@@ -1,0 +1,82 @@
+{
+  "appointmentOptions": {
+    "dates": [
+      "2019-09-27",
+      "2019-09-28",
+      "2019-09-30"
+    ],
+    "times": {
+      "1": ["6:00 AM", "6:30 AM", "1:30 PM"],
+      "5": ["6:00 AM", "6:30 AM", "1:30 PM"],
+      "6": ["6:00 AM", "6:30 AM", "1:30 PM"]
+    }
+  },
+  "brand": {
+    "id": 8,
+    "name": "bmw",
+    "copyright":"BMW of North America, LLC. The BMW name, model names and logo are registered trademarks.",
+    "heroImage":"/static/images/bmw_hero_image.jpg",
+    "logoImage":"/static/images/bmw-logo-white.png",
+    "url": {
+      "ref":"https://www.bmwusa.com",
+      "text":"bmwusa.com"
+    }
+  },
+  "dealer": {
+    "googleAnalyticsPropertyId": "UA-149171503-2",
+    "id": 139,
+    "dvmId": 168,
+    "name": "BMW Northwest",
+    "email": {
+      "bdc": "max@dataclover.com"
+    },
+    "address": {
+      "street": "4011 20th St E",
+      "city": "Tacoma",
+      "state": "WA",
+      "zip": "98424"
+    },
+    "expirationDays": 30,
+    "affiliate": "This site is an affiliate of BMW Northfield customer experience.",
+    "phone": {
+      "service": "877.731.2041",
+      "sales": "877.730.3012",
+      "parts": "877.859.9237",
+      "bdc": "4049033698"
+    },
+    "url": {
+      "about": "https://www.bmwnorthwest.com/dealership/about.htm",
+      "privacy": "https://www.bmwnorthwest.com/privacy.htm",
+      "directions": "https://www.bmwnorthwest.com/dealership/directions.htm",
+      "sitemap": "https://www.bmwnorthwest.com/sitemap.htm",
+      "contact": "https://www.bmwnorthwest.com/contact.htm",
+      "appointment": "https://www.bmwnorthwest.com/service/schedule-bmw-service.htm",
+      "home": "https://www.bmwnorthwest.com"
+    },
+    "serviceHours": {
+      "monday": "6:00am - 5:30pm",
+      "tuesday": "6:00am - 5:30pm",
+      "wednesday": "6:00am - 5:30pm",
+      "thursday": "6:00am - 5:30pm",
+      "friday": "6:00am - 5:30pm",
+      "saturday": "8:00am - 4:30pm"
+    }
+  },
+  "offers": [
+    {
+      "code": "b53098ee-da45-11e9-a35c-bffcaa6c9c98",
+      "media_type": "Web",
+      "discount_unit": "Complimentary",
+      "discount_value": "0",
+      "image": "/static/images/coupon_vehicle_assessment_image.jpg",
+      "description": "Includes 20-point vehicle inspection and car wash with any service. Please present coupon at time of write up.",
+      "status": "ACTIVE",
+      "headline": "mpucomp00",
+      "offer_type": "TEST Type",
+      "tag": "mpucomp00",
+      "title": "Vehicle Assessment",
+      "id": "1"
+    }
+  ],
+  "coupons": []
+}

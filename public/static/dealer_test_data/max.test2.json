@@ -1,0 +1,171 @@
+{
+  "appointmentOptions": {
+    "dates": [
+      "2019-09-27",
+      "2019-09-28",
+      "2019-09-30",
+      "2019-10-01",
+      "2019-10-02",
+      "2019-10-03",
+      "2019-10-04",
+      "2019-10-05",
+      "2019-10-07",
+      "2019-10-08",
+      "2019-10-09",
+      "2019-10-10",
+      "2019-10-11",
+      "2019-10-12"
+    ],
+    "times": {
+      "1": ["6:00", "6:30", "7:00", "7:30", "12:00", "12:30", "13:00", "13:30"],
+      "2": ["6:00", "6:30", "7:00", "7:30", "12:00", "12:30", "13:00", "13:30"],
+      "3": ["6:00", "6:30", "7:00", "7:30", "12:00", "12:30", "13:00", "13:30"],
+      "4": ["6:00", "6:30", "7:00", "7:30", "12:00", "12:30", "13:00", "13:30"],
+      "5": ["6:00", "6:30", "7:00", "7:30", "12:00", "12:30", "13:00", "13:30"],
+      "6": ["6:00", "6:30", "7:00", "7:30", "12:00", "12:30", "13:00", "13:30"]
+    }
+  },
+  "brand": {
+    "id": 8,
+    "name": "bmw",
+    "copyright":"BMW of North America, LLC. The BMW name, model names and logo are registered trademarks.",
+    "heroImage":"/static/images/bmw_hero_image.jpg",
+    "logoImage":"/static/images/bmw-logo-white.png",
+    "url": {
+      "ref":"https://www.bmwusa.com",
+      "text":"bmwusa.com"
+    }
+  },
+  "dealer": {
+    "googleAnalyticsPropertyId": "UA-149171503-2",
+    "id": 139,
+    "dvmId": 169,
+    "serviceHubDomain": "max.test2",
+    "name": "BMW Northwest",
+    "email": {
+      "bdc": "max@dataclover.com"
+    },
+    "address": {
+      "street": "4011 20th St E",
+      "city": "Tacoma",
+      "state": "WA",
+      "zip": "98424"
+    },
+    "expirationDays": 30,
+    "affiliate": "This site is an affiliate of BMW Northwest customer experience.",
+    "phone": {
+      "service": "877.731.2041",
+      "sales": "877.730.3012",
+      "parts": "877.859.9237",
+      "bdc": "4049033698"
+    },
+    "url": {
+      "about": "https://www.bmwnorthwest.com/dealership/about.htm",
+      "privacy": "https://www.bmwnorthwest.com/privacy.htm",
+      "directions": "https://www.bmwnorthwest.com/dealership/directions.htm",
+      "sitemap": "https://www.bmwnorthwest.com/sitemap.htm",
+      "contact": "https://www.bmwnorthwest.com/contact.htm",
+      "appointment": "https://www.bmwnorthwest.com/service/schedule-bmw-service.htm",
+      "home": "https://www.bmwnorthwest.com",
+      "facebook": "https://www.facebook.com/bmwnorthwest",
+      "twitter": "https://twitter.com/bmwnorthwest",
+      "googleMap": "https://www.google.com/maps/embed/v1/place?q=place_id:ChIJ88ZbpUT_kFQRxE6z_00uIfU"
+    },
+    "serviceHours": {
+      "monday": "6:00AM - 5:30PM",
+      "wednesday": "6:00AM - 5:30PM",
+      "thursday": "6:00AM - 5:30PM",
+      "friday": "6:00AM - 5:30PM",
+      "saturday": "8:00am - 4:30PM"
+    }
+  },
+  "offers": [
+    {
+      "code": "b53098ee-da45-11e9-a35c-bffcaa6c9c98",
+      "media_type": "Web",
+      "discount_unit": "Complimentary",
+      "discount_value": "0",
+      "image": "/static/images/coupon_vehicle_assessment_image_04.jpg",
+      "description": "Includes 20-point vehicle inspection and car wash with any service. Please present coupon at time of write up.",
+      "status": "ACTIVE",
+      "headline": "mpucomp00",
+      "offer_type": "TEST Type",
+      "tag": "mpucomp00",
+      "title": "Vehicle Assessment",
+      "id": "1"
+    },
+    {
+      "code": "b53098ee-da45-11e9-a35c-bffcaa6c9c99",
+      "media_type": "Web",
+      "discount_unit": "Complimentary",
+      "discount_value": "0",
+      "image": "/static/images/coupon_battery_image_04.jpg",
+      "description": "Includes inspection of electrical systems, battery connections, and charge capacity. Please present coupon at time of write up.",
+      "status": "ACTIVE",
+      "headline": "battcomp00",
+      "offer_type": "TEST Type",
+      "tag": "battcomp00",
+      "title": "Battery Health Check",
+      "id": "2"
+    },
+    {
+      "code": "b53098ee-da45-11e9-a35c-bffcaa6c9c90",
+      "media_type": "Web",
+      "discount_unit": "Complimentary",
+      "discount_value": "0",
+      "image": "/static/images/coupon_tire_image_04.jpg",
+      "description": "Includes inspection of all 4 tires for stress cracks, bubbles, bulges, and tire tread depth. Please present coupon at time of write up.",
+      "status": "ACTIVE",
+      "headline": "tirecomp00",
+      "offer_type": "TEST Type",
+      "tag": "tirecomp00",
+      "title": "Tire Health Check",
+      "id": "3"
+    },
+    {
+      "code": "b53098ee-da45-11e9-a35c-bffcaa6c9c91",
+      "media_type": "Web",
+      "discount_unit": "Complimentary",
+      "discount_value": "0",
+      "image": "/static/images/coupon_ac_service_repair_image_04.jpg",
+      "description": "Function test AC to ensure proper operation. Please present coupon at time of write up.",
+      "status": "ACTIVE",
+      "headline": "accomp00",
+      "offer_type": "TEST Type",
+      "tag": "accomp00",
+      "title": "AC Health Check",
+      "id": "4"
+    },
+    {
+      "code": "b53098ee-test-11e9-a35c-bffcaa6c9c91",
+      "media_type": "Web",
+      "discount_unit": "UpToPercent",
+      "discount_value": "20",
+      "image": "/static/images/coupon_ac_service_repair_image_04.jpg",
+      "description": "Function test AC to ensure proper operation. Please present coupon at time of write up.",
+      "status": "ACTIVE",
+      "headline": "acuptoperc20",
+      "offer_type": "TEST Type",
+      "tag": "accomp00",
+      "title": "AC Health Check",
+      "id": "4"
+    }
+  ],
+  "coupons": [
+    {
+      "code": "b53098ee-da45-11e9-a35c-bffcaa6c9c80",
+      "media_type": "Web",
+      "discount_unit": "Percent",
+      "discount_value": "25%",
+      "image": "/static/images/coupon_service_image_04.jpg",
+      "description": "Maximum discount of $200. Excludes tires. Please present coupon at time of write up.",
+      "status": "ACTIVE",
+      "headline": "genperc25",
+      "offer_type": "TEST Type",
+      "tag": "genperc25",
+      "title": "Any Service or Repair",
+      "id": "4"
+    }
+
+  ]
+}

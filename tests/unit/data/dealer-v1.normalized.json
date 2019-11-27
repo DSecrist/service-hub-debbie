@@ -1,0 +1,94 @@
+{
+  "OpenHours":
+  {
+    "1": [["6:00 AM",6], ["6:30 AM",6.5], ["1:30 PM",13.5]],
+    "5": [["6:00 AM",6], ["6:30 AM",6.5], ["1:30 PM",13.5]],
+    "6": [["6:00 AM",6], ["6:30 AM",6.5], ["1:30 PM",13.5]]
+  },
+  "dealership_id": 139,
+  "bdcEmail":"max@dataclover.com",
+  "brand": {
+    "name":"bmw",
+    "copyright":"BMW of North America, LLC. The BMW name, model names and logo are registered trademarks.",
+    "heroImage":"/static/images/bmw_hero_image.jpg",
+    "logoImage":"/static/images/bmw-logo-white.png",
+    "url": {
+      "ref":"https://www.bmwusa.com",
+      "text":"bmwusa.com"
+    }
+  },
+  "dealershipId": 139,
+  "valid_offers": ["5872b942-d596-11e9-89a6-f3b425e18d93","b703b666-d594-11e9-a0a7-6f0eb94ddcf9","5a689442-d596-11e9-89a8-8f77cc0ab775","596dfb40-d596-11e9-89a7-cbc747d3885e","d464a03e-d595-11e9-a0a8-4bff83e831f2","b53098ee-da45-11e9-a35c-bffcaa6c9123"],
+  "dvm_attributes": {
+    "tuesday_service_hours": "6:00am - 5:30pm",
+    "zip": "98424",
+    "saturday_service_hours": "8:00am - 4:30pm",
+    "city": "Tacoma",
+    "parts_phone": "877.859.9237",
+    "thursday_service_hours": "6:00am - 5:30pm",
+    "dealership_id":139,
+    "main_website": "BMWNorthwest.com",
+    "vehicle_make_id": 8,
+    "appointment_website": "https://www.bmwnorthwest.com/service/schedule-bmw-service.htm",
+    "sales_phone": "877.730.3012",
+    "service_phone": "877.731.2041",
+    "wednesday_service_hours": "6:00am - 5:30pm",
+    "monday_service_hours": "6:00am - 5:30pm",
+    "map_website": "bmwnorthwest.com/dealership/directions.htm",
+    "street": "4011 20th St E",
+    "marketing_name": "BMW Northwest",
+    "friday_service_hours": "6:00am - 5:30pm",
+    "id": 168,
+    "state": "WA",
+    "sunday_service_hours": "Closed",
+    "brand_website": "BMWNorthwest.com"
+  },
+  "dealershipPhone": "4049033698",
+  "dvm_id": 168,
+  "dealer": {
+    "googleAnalyticsPropertyId": "UA-149171503-2",
+    "id": 139,
+    "name": "BMW Northwest",
+    "address": "4011 20th St E Tacoma, WA, 98424",
+    "expirationDays": 30,
+    "affiliate": "This site is an affiliate of BMW Northfield customer experience.",
+    "phone": {
+      "service": "877.731.2041",
+      "sales": "877.730.3012",
+      "bdc": "4049033698"
+    },
+    "email": {
+      "bdc": "max@dataclover.com"
+    },
+    "url": {
+      "about": "https://www.bmwnorthwest.com/dealership/about.htm",
+      "privacy": "https://www.bmwnorthwest.com/privacy.htm",
+      "directions": "https://www.bmwnorthwest.com/dealership/directions.htm",
+      "sitemap": "https://www.bmwnorthwest.com/sitemap.htm",
+      "contact": "https://www.bmwnorthwest.com/contact.htm",
+      "home":"https://www.bmwnorthwest.com"
+    },
+    "displayDates": [
+      "Friday, September 27th 2019",
+      "Saturday, September 28th 2019",
+      "Monday, September 30th 2019"
+    ]
+  },
+  "offers": [
+    {
+      "code": "b53098ee-da45-11e9-a35c-bffcaa6c9c98",
+      "media_type": "Web",
+      "discount_unit": "Complimentary",
+      "discount_value": "0",
+      "image": "/static/images/coupon_vehicle_assessment_image.jpg",
+      "description": "Includes 20-point vehicle inspection and car wash with any service. Please present coupon at time of write up.",
+      "status": "ACTIVE",
+      "headline": "mpucomp00",
+      "offer_type": "TEST Type",
+      "tag": "mpucomp00",
+      "title": "Vehicle Assessment",
+      "id": "1"
+    }
+  ],
+  "coupons": []
+}

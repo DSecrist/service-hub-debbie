@@ -1,0 +1,154 @@
+{
+  "heading": "Tips and Guides",
+  "content": "Learn how to keep your BMW running in top condition. From what to look for in worn tires, why it's important to regularly change your cars oil, to determining if your brakes need replacement, you'll find these tips and guides a handy resource for knowing when your vehicle needs maintenance or repairs.",
+  "hero": {
+    "imageUrl": "/static/images/bmw_hero_image_tips_page.jpg",
+    "heading": "Drive Smarter",
+    "subHeading": "Learn more with these tips and guides."
+  },
+  "tiles": [
+    {
+      "id": "0",
+      "category": "oil",
+      "image": "/static/images/oil_image.jpg",
+      "headline": "Change Your Oil",
+      "hero": {
+        "imageUrl": "/static/images/bmw_hero_image_articles_oil.jpg",
+        "heading": "Drive Smarter",
+        "subHeading": "Get your BMW serviced today."
+      },
+      "articles": [
+        { "id": "01", "title": "Top 5 Technical Benefits of Original BMW Engine Oil" },
+        { "id": "02", "title": "4 Benefits of Routine Oil Changes" }
+      ]
+    },
+    {
+      "id": "1",
+      "category": "tire",
+      "image": "/static/images/tire_image_03.jpg",
+      "headline": "Check Your Tires",
+      "hero": {
+        "imageUrl": "/static/images/bmw_hero_image_articles_tires.jpg",
+        "heading": "Drive Smarter",
+        "subHeading": "Get your BMW serviced today."
+      },
+      "articles": [
+        { "id": "01", "title": "Why Do Tires Blowout More in Summer&#63;" },
+        { "id": "02", "title": "Is Your Tire Pressue Light On&#63;" },
+        { "id": "03", "title": "How Seasonal Changes Affect Internal Tire Pressure" },
+        { "id": "04", "title": "Tire Pressure &#45; Nitro Fill Versus Air Fill" }
+      ]
+    },
+    {
+      "id": "2",
+      "category": "suspension",
+      "image": "/static/images/alignment_image.jpg",
+      "headline": "Is Your Ride Bumpy",
+      "hero": {
+        "imageUrl": "/static/images/bmw_hero_image_articles_suspension.jpg",
+        "heading": "Drive Smarter",
+        "subHeading": "Get your BMW serviced today."
+      },
+      "articles": [
+        { "id": "01", "title": "Have You Had a Driving Mishap&#63;" },
+        { "id": "02", "title": "When Was the Last Time Your Suspension Was Serviced&#63;" }
+      ]
+    },
+    {
+      "id": "3",
+      "category": "wiper",
+      "image": "/static/images/wipers_image.jpg",
+      "headline": "Wiper Blade FAQ",
+      "hero": {
+        "imageUrl": "/static/images/bmw_hero_image_articles_wipers.jpg",
+        "heading": "Drive Smarter",
+        "subHeading": "Get your BMW serviced today."
+      },
+      "articles": [
+        { "id": "01", "title": "Have You Noticed Any of These Common Wiper Problems&#63;" },
+        { "id": "02", "title": "5 Signs You Need New Wiper Blades" }
+      ]
+    },
+    {
+      "id": "4",
+      "category": "brakes",
+      "image": "/static/images/brakes_image.jpg",
+      "headline": "All About Brakes",
+      "hero": {
+        "imageUrl": "/static/images/bmw_hero_image_articles_brakes.jpg",
+        "heading": "Drive Smarter",
+        "subHeading": "Get your BMW serviced today."
+      },
+      "articles": [
+        { "id": "01", "title": "5 Signs You Need New Brakes" }
+      ]
+    },
+    {
+      "id": "5",
+      "category": "air",
+      "image": "/static/images/air_image.jpg",
+      "headline": "Air Conditioning",
+      "hero": {
+        "imageUrl": "/static/images/bmw_hero_image_articles_ac.jpg",
+        "heading": "Drive Smarter",
+        "subHeading": "Get your BMW serviced today."
+      },
+      "articles": [
+        { "id": "01", "title": "Do You Know When Your Cabin Air Filter Needs Replacement&#63;" },
+        { "id": "02", "title": "3 Common Signs Your A/C Needs Service" },
+        { "id": "03", "title": "Why Is My A/C Not Blowing Cold Air&#63;" }
+      ]
+    },
+    {
+      "id": "6",
+      "category": "battery",
+      "image": "/static/images/battery_image.jpg",
+      "headline": "Battery Care",
+      "hero": {
+        "imageUrl": "/static/images/bmw_hero_image_articles_battery.jpg",
+        "heading": "Drive Smarter",
+        "subHeading": "Get your BMW serviced today."
+      },
+      "articles": [
+        { "id": "01", "title": "3 Warning Signs Of A Drained Battery" },
+        { "id": "02", "title": "Winter Battery Care" },
+        { "id": "03", "title": "Extending Your BMW's Battery Life" }
+      ]
+    },
+    {
+      "id": "7",
+      "category": "seasonal",
+      "image": "/static/images/seasonal_image_3.jpg",
+      "headline": "Seasonal",
+      "hero": {
+        "imageUrl": "/static/images/bmw_hero_image_articles_seasonal.jpg",
+        "heading": "Drive Smarter",
+        "subHeading": "Get your BMW serviced today."
+      },
+      "articles": [
+        { "id": "01", "title": "Is Your BMW Ready For The Winter Months&#63;" },
+        { "id": "02", "title": "5 Benefits To Changing Your Cabin Air Filter In Summer" },
+        { "id": "03", "title": "5 Reasons To Change Your Cabin Air Filter Before Spring" },
+        { "id": "04", "title": "5 Benefits Of Changing Your Cabin Air Filter In Autumn" }
+      ]
+    },
+    {
+      "id": "8",
+      "category": "general",
+      "image": "/static/images/general_maintenance_image.jpg",
+      "headline": "General Maintenance",
+      "hero": {
+        "imageUrl": "/static/images/bmw_hero_image_articles_maintenance.jpg",
+        "heading": "Drive Smarter",
+        "subHeading": "Get your BMW serviced today."
+      },
+      "articles": [
+        { "id": "01", "title": "Consider An Early Service If You Frequently Drive In The City" },
+        { "id": "02", "title": "Make Sure Your Vehicle Is Road-Trip Ready" },
+        { "id": "03", "title": "Tips For Maintaining Your BMW's Value" },
+        { "id": "04", "title": "Protecting &amp; Maintaining Your BMW's Exterior" },
+        { "id": "05", "title": "Benefits Of Using Original BMW Parts" }
+      ]
+    }
+  ]
+}
